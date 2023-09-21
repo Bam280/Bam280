@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bam280
-- 👀 I’m interested in Networking , Web Dev, Android Dev
-- 🌱 I’m currently learning *****
+- 👀 I’m interested in Networking , Cloud Computing , and a little bit of Develop
+- 🌱 I’m currently learning Cloud Computing
 
 
 
